@@ -1,4 +1,4 @@
-# Propacity-Assignment
+# Propacity-Assignment Pritesh
 **Project Documentation**
 
 **Project Title:** Contact Form Integration with Google Sheets and Propacity API
@@ -65,11 +65,13 @@ This project aims to create a contact form on a website that collects user data 
    - Conducted thorough testing to ensure form data was successfully sent to Google Sheets and Propacity.
    - Checked for error handling and response validation.
    - link for Google sheet https://docs.google.com/spreadsheets/d/1aoWEFum3zIfHNiM9lNKh_FmnXqeqQQpmfaK1sTBOn1s/edit?usp=sharing
+5. *Hosted on:*
+   - https://pritesh6754.github.io/propacity/
+
+6. *Run on local server for better expereince (index.html)*
 
 **Conclusion:**
 
 This project successfully integrated a contact form with Google Sheets and the Propacity API. It allows users to submit their contact details, which are stored in a Google Sheet for future reference and transmitted to the Propacity API for further processing. Challenges related to permissions, library usage, and error handling were addressed during the development process, resulting in a functioning solution.
 
-**Future Improvements:**
 
-Future improvements may include enhancing the user interface, implementing further error handling and validation, and providing user feedback on successful form submissions. Additionally, security measures to protect user data during transmission should be considered.
